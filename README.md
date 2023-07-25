@@ -2,7 +2,7 @@
 A Tetris build in Python with pygame
 
 ## How to play 🎮
-**1. Install**
+1. Install
     
     1. Download repo with:
         
@@ -46,7 +46,7 @@ A Tetris build in Python with pygame
         pip install -r requirements.txt
         ```
 
-**2. Play**
+2. Play
     
     1. Exectute
         
