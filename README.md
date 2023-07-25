@@ -8,7 +8,6 @@ A Tetris build in Python with pygame
         b. git clone
             ```shell
             git clone https://github.com/Zerbaib/TetrisPy.git
-
             ```
     
     2. Go to the repo of the game
